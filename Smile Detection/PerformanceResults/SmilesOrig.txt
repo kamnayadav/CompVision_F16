@@ -1,0 +1,11 @@
+DemoOriginal
+Positive training
+Elapsed time is 39.608983 seconds.
+Negative training
+Elapsed time is 110.054952 seconds.
+SVM training
+Elapsed time is 14.341052 seconds.
+Testing
+Elapsed time is 49.741253 seconds.
+Prediction
+Elapsed time is 0.057365 seconds.
